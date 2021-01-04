@@ -1,6 +1,6 @@
 # Feather Radio Projects
 
-The [Adafruit Feather](https://www.adafruit.com/feather) platform is an impressively flexible and extensive collection of development boards ('Feathers') and add-ons ('Wings').  Most of my Feather-based projects hvae used the [Feather Huzzah](https://www.adafruit.com/product/2821) to take advantage of its onboard WiFi support.  Occasionally, though, I need to transmit data from point to point in an area where there is no WiFi or available local wired network.  Fortunately there are several radio-based Feather boards offering Bluetooth, packet radio, or LoRa communications. 
+The [Adafruit Feather](https://www.adafruit.com/feather) platform is an impressively flexible and extensive collection of development boards ('Feathers') and add-ons ('Wings').  Most of my Feather-based projects have used the [Feather Huzzah](https://www.adafruit.com/product/2821) to take advantage of its onboard WiFi support.  Occasionally, though, I need to transmit data from point to point in an area where there is no WiFi or available local wired network.  Fortunately there are several radio-based Feather boards offering Bluetooth, packet radio, or LoRa communications. 
 
 Generally such projects require a matched pair of radio-based boards -- one as the transmitter and one as the receiver.
 
